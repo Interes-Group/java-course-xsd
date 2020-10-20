@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persons xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="schema.xsd">
+    <person>
+        <id>1</id>
+        <name>Jozko</name>
+        <surname>Mrkvicka</surname>
+        <national_id>9310201234</national_id>
+        <email>mrkvicka@stuba.sk</email>
+        <address>
+            <street>Ilkovicova</street>
+            <street_number>3</street_number>
+            <city>Bratislava</city>
+            <postal_code>84105</postal_code>
+        </address>
+    </person>
+    <person>
+        <id>1</id>
+        <name>Jozko</name>
+        <surname>Mrkvicka</surname>
+        <national_id>9310201234</national_id>
+        <email>mrkvicka@stuba.sk</email>
+        <address>
+            <street>Ilkovicova</street>
+            <street_number>3</street_number>
+            <city>Bratislava</city>
+            <postal_code>84105</postal_code>
+        </address>
+    </person>
+</persons>
